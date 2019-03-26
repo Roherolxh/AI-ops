@@ -21,4 +21,7 @@
 # 技术架构
 ![架构图](https://github.com/Roherolxh/AI-ops/blob/master/doc/image/%E8%BF%90%E7%BB%B4%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 # 技术选型
+后端：django2.0+pythn3.5
+前端：vue2.0
+Api：framework+suagger
 # 赞赏支持
